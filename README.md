@@ -1,4 +1,4 @@
-## Connect With Me:
+### Connect With Me:
 <a href="https://www.facebook.com/seanmalferrari/" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)
 </a>
 # 💻 Tech Stack:
