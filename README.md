@@ -10,12 +10,17 @@
   I'm a first-year student taking the Bachelor of Science in Information Technology course at STI College CDO.
 </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=M3XH4&theme=blue-green&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=M3XH4&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=M3XH4&theme=blue-green&hide_border=false)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=M3XH4&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+</div>
 
 <hr />
 
 ### 📫 Connect With Me:
+
 <a href="https://www.facebook.com/seanmalferrari/" target="_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=0866FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook logo"/>
 </a>
 <a href="mailto:sbmalferrari@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo"/>
