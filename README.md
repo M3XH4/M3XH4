@@ -34,8 +34,13 @@
 
 <hr />
 
+### 🐍 My Contributions:
+
 <img src="https://raw.githubusercontent.com/M3XH4/M3XH4/output/snake.svg" alt="Snake animation" />
 
+<hr />
+
+<h3>My Repositories 👇:</h3>
 ###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
