@@ -7,7 +7,7 @@
 ### ✨ | About Me:
 
 <p align="left">
-  I ma Sean Benedict Malferrari, a first-year student taking the Bachelor of Science in Information Technology course at STI College CDO.
+  I'm Sean Benedict Malferrari, a first-year student taking the Bachelor of Science in Information Technology course at STI College CDO.
 </p>
 
 <div align="center">
