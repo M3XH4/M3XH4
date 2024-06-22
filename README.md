@@ -7,7 +7,7 @@
 ### ✨ About Me:
 
 <p align="left">
-  I'm currently a first-year student, taking the course of Bachelor of Science in Information Technology at STI College CDO.
+  I'm a first-year student taking the Bachelor of Science in Information Technology course at STI College CDO.
 </p>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=M3XH4&theme=blue-green&hide_border=false)
@@ -16,11 +16,11 @@
 <hr />
 
 ### 📫 Connect With Me:
-<a href="https://www.facebook.com/seanmalferrari/" target="_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=0866FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"/>
+<a href="https://www.facebook.com/seanmalferrari/" target="_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=0866FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook logo"/>
 </a>
-<a href="https://gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
+<a href="mailto:sbmalferrari@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo"/>
 </a>
-<a href="" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
+<a href="www.linkedin.com/in/sean-benedict-malferrari-254400309" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo"/>
 </a>
 
 ### 💻 I Code With:
