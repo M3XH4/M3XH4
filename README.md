@@ -19,7 +19,9 @@
 
 <details>
 <summary>
-	👈 | Click Here To Know More About Me
+
+### 🔎 | Click Here To Know More About Me
+ 
 </summary>
 
 #### 📈 | Github Stats:
@@ -33,13 +35,13 @@
 
 <hr />
 
-### 🐍 | My Contributions:
+## 🐍 | My Contributions:
 
 <img src="https://raw.githubusercontent.com/M3XH4/M3XH4/output/snake.svg" alt="Snake animation" />
 
 <hr />
 
-<h3>My Repositories 👇:</h3>
+## My Repositories 👇:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
