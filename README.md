@@ -4,10 +4,11 @@
 </h1>
 </span>
 
-## ✨ | About Me:
+## ✨ | About Me: <br />
 
 <p align="left">
-  I'm Sean, a first-year student taking the Bachelor of Science in Information Technology course at STI College CDO. <br />
+  Hello! I'm Sean, a student with a deep love for technology and an insatiable curiosity for learning. My journey in tech began with a fascination for how things 
+work, and it has evolved into a passion for creating and innovating.
 </p>
 
 <div align="center">
