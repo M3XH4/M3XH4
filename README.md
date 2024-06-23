@@ -1,8 +1,6 @@
-<span>
 <h1 align="center">
   Hello There 👋, I'm M3XH4
 </h1>
-</span>
 
 ## ✨ | About Me:
 
@@ -10,10 +8,10 @@
 
 ### 📫 | Connect With Me:
 
-<a href="https://github.com/M3XH4" target="_blank"><img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=1F2328&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Github logo"/>&nbsp;</a>
-<a href="https://www.facebook.com/seanmalferrari/" target="_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=0866FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook logo"/>&nbsp;</a>
-<a href="mailto:sbmalferrari@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo"/>&nbsp;</a>
-<a href="www.linkedin.com/in/sean-benedict-malferrari-254400309" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo"/>&nbsp</a>
+<a href="https://github.com?M3XH4" target="_blank"><img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=1F2328&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Github Logo"/></a>
+<a href="https://www.facebook.com/seanmalferrari/" target="_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=0866FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook Logo"/></a>
+<a href="mailto:sbmalferrari@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail Logo"/></a>
+<a href="www.linkedin.com/in/sean-benedict-malferrari-254400309" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo"/></a> 
 
 ### 💻 | I Code With:
 
@@ -21,7 +19,7 @@
 
 <details>
 <summary>
-	🔎 | Click Here To Know More About Me 👉
+	👈 | Click Here To Know More About Me
 </summary>
 
 #### 📈 | Github Stats:
