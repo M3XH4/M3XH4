@@ -19,9 +19,7 @@
 
 <details>
 <summary>
-
-### 🔎 | Click Here To Know More About Me
- 
+🔎 | Click Here To Know More About Me
 </summary>
 
 #### 📈 | Github Stats:
