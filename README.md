@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello There 👋, I'm M3XH4
+  Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm M3XH4
 </h1>
 
 ## ✨ | About Me:
