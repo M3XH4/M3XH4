@@ -6,7 +6,7 @@
 
 ## ✨ | About Me:
 
-<p align="left"> Hello! I'm Sean, also known as M3XH4, a student with a profound passion for technology and an unyielding curiosity for continuous learning. My journey into the world of technology started with a simple fascination for understanding how things work, from the smallest lines of code to the most complex methods. As time passed, this fascination turned into a passion for developing innovative solutions and pushing the boundaries of what technology can achieve.</p>
+<p align="justify"> Hello! I'm Sean, also known as M3XH4, a student with a profound passion for technology and an unyielding curiosity for continuous learning. My journey into the world of technology started with a simple fascination for understanding how things work, from the smallest lines of code to the most complex methods. As time passed, this fascination turned into a passion for developing innovative solutions and pushing the boundaries of what technology can achieve.</p>
 
 ### 📫 | Connect With Me:
 
