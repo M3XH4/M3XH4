@@ -7,8 +7,7 @@
 ## ✨ | About Me: <br />
 
 <p align="left">
-  Hello! I'm Sean, a student with a deep love for technology and an insatiable curiosity for learning. My journey in tech began with a fascination for how things 
-work, and it has evolved into a passion for creating and innovating.
+  Hello! I'm M3XH4 or by my name Sean, a student with a deep love for technology and an insatiable curiosity for learning. My journey in tech began with a fascination for how things work, and it has evolved into a passion for creating and innovating.
 </p>
 
 <div align="center">
