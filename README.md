@@ -4,10 +4,10 @@
 </h1>
 </span>
 
-### ✨ | About Me:
+## ✨ | About Me:
 
 <p align="left">
-  I'm Sean Benedict Malferrari, a first-year student taking the Bachelor of Science in Information Technology course at STI College CDO. <br />
+  I'm Sean, a first-year student taking the Bachelor of Science in Information Technology course at STI College CDO. <br />
 </p>
 
 <div align="center">
@@ -41,7 +41,6 @@
 <hr />
 
 <h3>My Repositories 👇:</h3>
-###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
